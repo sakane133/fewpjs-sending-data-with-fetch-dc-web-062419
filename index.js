@@ -5,3 +5,4 @@ fetch("http://localhost:3000/users", {
   method: "POST",
 })
 }
+
