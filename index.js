@@ -1,2 +1,4 @@
 // Add your code here
-function submitData
+function submitData(name, email){
+  
+}
